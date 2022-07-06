@@ -55,14 +55,12 @@ body {
 }
 
 h1 {
-  font-size: 50px;
-  text-align: center;
+  font-size: 38px;
   margin-bottom: 15px;
 }
 
 p {
-  font-size: 20px;
-  text-align: center;
+  font-size: 15px;
   margin-bottom: 50px;
 }
 
@@ -132,4 +130,43 @@ p {
   border-right: none;
   text-align: center;
   cursor: pointer;
+}
+.donate-plan {
+  margin-top: 80px;
+}
+.plan-title {
+  text-align: center;
+}
+
+.plan-description {
+  display: flex;
+  justify-content: center;
+  padding: 4%;
+}
+.plan1 {
+  padding: 60px 18px;
+  margin: 15px;
+  margin-top: 2px;
+  background-color: hwb(180 82% 3%);
+  border-radius: 5px;
+}
+.plan2 {
+  padding: 60px 18px;
+  margin: 15px;
+  margin-top: 2px;
+  background-color: rgb(248, 222, 218);
+  border-radius: 5px;
+}
+.plan3 {
+  padding: 60px 18px;
+  margin: 15px;
+  margin-top: 2px;
+  background-color: rgb(248, 248, 204);
+  border-radius: 5px;
+}
+.icon {
+  margin-bottom: 15px;
+}
+.plan-name {
+  margin-bottom: 40px;
 }
