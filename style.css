@@ -201,7 +201,7 @@ p {
 }
 .mail {
   background-color: rgb(255, 230, 199);
-  padding: 4%;
+  padding: 7%;
   text-align: center;
   margin-left: 280px;
   margin-right: 280px;
@@ -215,7 +215,7 @@ p {
   background-color: rgb(214, 211, 211);
 }
 .mail button {
-  padding: 3%;
+  padding: 15.5px 22px;
   background-color: rgb(243, 108, 108);
   margin: 15px;
   font-size: 15px;
